@@ -163,6 +163,7 @@ tempoMarkup =
 %
 
 tempoTeDeum = \tempoMarkup "Larghetto"
+tempoTibiCherubim = \tempoMarkup "Andante"
 
 
 % modify the Scheme function 'format-bass-figure'
