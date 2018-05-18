@@ -200,11 +200,11 @@ TeDeumOrgano = {
 		g g c,
 		d d d %190
 		g g d
-		g8 c h a g fis?
+		g8 c-\solo h a g fis?
 		g4 g g
 		g d d
 		g d d %195
-		g g d
+		g g\pE d
 		g g g
 		c,2 fis4
 		g g g
@@ -216,7 +216,7 @@ TeDeumOrgano = {
 		a h a %205
 		gis a d,
 		e e e
-		a, a e'
+		\mvTr a,\fE-\tuttiE a e'
 		a, a' e
 		a, e' e %210
 		a a a
