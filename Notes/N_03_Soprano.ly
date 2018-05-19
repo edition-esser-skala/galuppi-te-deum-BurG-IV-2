@@ -177,7 +177,7 @@ TeDeumSopranoNotes = {
 		a2 a4
 		a4. a8 a4
 		a2 a4 %215
-		c!2 c4
+		cis?2 cis4
 		a2.
 		a2 r4
 		a a a

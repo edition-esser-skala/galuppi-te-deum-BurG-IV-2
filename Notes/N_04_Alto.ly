@@ -70,8 +70,8 @@ TeDeumAltoNotes = {
 		a2 a4
 		a4.( g8) f4
 		e g g
-		g( f2)^\critnote %70
-		f4 e2
+		g f2^\critnote %70
+		f4( e2)
 		a a4
 		g g g
 		g g g8 g
@@ -237,8 +237,8 @@ TeDeumAltoLyrics = \lyricmode {
 	can -- di --
 	da -- tus
 	lau -- dat ex --
-	er -- %70
-	ci -- tus.
+	er -- ci -- %70
+	tus. __
 	Te per
 	or -- bem ter --
 	ra -- rum san -- cta
