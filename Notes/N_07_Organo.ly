@@ -184,7 +184,7 @@ TeDeumOrgano = {
 		g, g r
 		c c c
 		g' g g %175
-		c, e g
+		c, e f^\critnote
 		g g g
 		a a g
 		fis d d

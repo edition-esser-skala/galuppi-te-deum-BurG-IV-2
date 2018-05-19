@@ -333,7 +333,7 @@ TeDeumSopranoLyrics = \lyricmode {
 	di -- es
 	be -- ne --
 	di -- ci -- mus
-	te.] %185
+	te. %185
 	Et __ lau --
 	da -- mus
 	no -- men
