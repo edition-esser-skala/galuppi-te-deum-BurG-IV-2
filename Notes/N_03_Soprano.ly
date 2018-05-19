@@ -34,7 +34,7 @@ TeDeumSopranoNotes = {
 		R1\fermataMarkup \bar "||"
 		\time 3/4 \newSpacingSection \tempoTibiCherubim
 			R2.*6 %22
-		\mvTr c2\fE^\tuttiE c4
+		\mvDll c2\fE^\tuttiE c4
 		h h h
 		c c c %25
 		h h h

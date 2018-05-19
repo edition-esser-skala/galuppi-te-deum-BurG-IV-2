@@ -34,7 +34,7 @@ TeDeumAltoNotes = {
 		R1\fermataMarkup \bar "||"
 		\time 3/4 \newSpacingSection \tempoTibiCherubim
 			R2.*6 %22
-		\mvTr g2\fE^\tuttiE g4
+		\mvDll g2\fE^\tuttiE g4
 		g g g
 		g g a %25
 		g g g
