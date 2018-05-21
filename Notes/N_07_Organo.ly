@@ -119,7 +119,7 @@ TeDeumOrgano = {
 		c c c
 		g g g
 		c f g %110
-		\mvTr c,\pE-\solo c g
+		c, \mvTr c\pE-\solo g
 		c c c
 		f e d^\critnote
 		c c c
@@ -142,7 +142,7 @@ TeDeumOrgano = {
 		h d h
 		e, fis gis
 		a e e
-		\mvTr a,\fE-\tutti a h
+		a, \mvTr a\fE-\tutti h
 		c a e' %135
 		a a a
 		a a a
@@ -275,7 +275,7 @@ TeDeumBassFigures = \figuremode {
 	r1
 	r2 <7>4
 	r2 <7>4
-	r2 <6 5>4
+	r2 <6>8 <5>
 	r2. %20
 	r2 <7>4
 	r2 <7>4
@@ -439,7 +439,7 @@ TeDeumBassFigures = \figuremode {
 	<6>2. %180
 	r
 	r4 <6> r
-	r <6\\> <6>
+	r <6> <6>
 	r2 <6 5>4
 	r2. %185
 	<6>4 r <6\\>
