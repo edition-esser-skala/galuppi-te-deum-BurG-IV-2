@@ -44,7 +44,7 @@ TeDeumViolinoII = {
 		g f d
 		c c'~ c32( d e f g a h c)
 		a,8 a' a,4~ a32( h c d e f g a) %35
-		f2 a,4
+		fis?2 a,4
 		g a h
 		a g fis
 		g h e
